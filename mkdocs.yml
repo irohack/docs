@@ -1,0 +1,7 @@
+site_name: My Docs
+theme:
+  name: 'material'
+  extra:
+      font:
+          text: "Noto Sans JP"
+          code: "Consolas"
