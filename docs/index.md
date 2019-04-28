@@ -1,17 +1,12 @@
-# Welcome to MkDocs
+# Welcome to irohack!
+## info
+開発チームirohackのいろいろするところです。だいたい何か書き残しておきます。周りに周知しておきたい情報、方法などを記載しておくとわざわざ教える必要がなくなります。
 
-For full documentation visit [mkdocs.org](https://mkdocs.org).
+## member
+* yakiniku-ya
+* ?
 
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## links
+* [slack](https://irohack.slack.com/)
+* [appear.in](https://appear.in/irohack/)
+* 

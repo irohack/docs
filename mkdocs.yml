@@ -1,7 +1,3 @@
-site_name: My Docs
+site_name: irohack
 theme:
   name: 'material'
-  extra:
-      font:
-          text: "Noto Sans JP"
-          code: "Consolas"
