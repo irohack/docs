@@ -1,3 +1,10 @@
 site_name: irohack
 theme:
   name: 'material'
+  language: 'ja'
+  logo:
+    icon: 'explore'
+  favicon: 'https://raw.githubusercontent.com/Yakiniku-Ya/yakiniku-ya.github.io/master/favicon/favicon.ico'
+extra:
+  search:
+    language: 'jp'
