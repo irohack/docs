@@ -1,4 +1,4 @@
-#gitコマンド覚え書き
+# gitコマンド覚え書き
 ##git init
 ```
 git init

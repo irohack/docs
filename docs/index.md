@@ -4,9 +4,11 @@
 
 ## member
 * yakiniku-ya
-* ?
+* Mankey
+* Takajun
+* しんきょ
 
 ## links
 * [slack](https://irohack.slack.com/)
 * [appear.in](https://appear.in/irohack/)
-* 
+* [googlecalendar](https://calendar.google.com/calendar/b/1/r)
