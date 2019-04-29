@@ -82,3 +82,5 @@ $ git add .
 $ git commit -m "コメントはちゃんとつけてね"
 $ git push -u origin master
 ```
+
+おしまいです
